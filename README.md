@@ -1,3 +1,5 @@
+[![Gem Version](http://img.shields.io/gem/v/distance_calculator.svg)](https://rubygems.org/gems/distance_calculator)
+
 ## Installation
 
 Add this line to your application's Gemfile:
